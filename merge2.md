@@ -1,3 +1,3 @@
-adding code from issue 1 -Sweetie
+adding code just code girl -Sweetie
 
-add your idea girl
+add your Idea
