@@ -1,8 +1,7 @@
-This file has been modified in pr3 
 
-my Main
+This file has been modified in pr3 (I did a and b)
 
-adding all my update code to this project -Sweety
+Adding all my CONFLICT project -Sweety
 
-Adding my code to this existing code
+Adding my code to this existing code ...
 
